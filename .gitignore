@@ -1,0 +1,17 @@
+# Backend Secrets & Credentials
+**/service_account.json
+**/.env
+**/.env.local
+**/*.env
+
+# Python Virtual Environments & Caches
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Frontend Dependencies & Builds
+**/node_modules/
+**/.expo/
+**/dist/
+**/web-build/

@@ -1,0 +1,6 @@
+.env
+service_account.json   # NEVER commit this — contains your Google credentials
+__pycache__/
+*.pyc
+.venv/
+venv/
